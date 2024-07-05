@@ -1,1 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=B39DDB&height=300&section=header&animation=twinkling&text=Divine%20Coding&fontSize=90" />
+<h2>Hey! Nice to see you</h2>
+
+<p><small>Welcom to my page!<br>I'm Daniel, Backend developer from :kr: <strong>Seoul</strong>, <strong>Korea</strong>, currently studying in the Department of Computer Science at Kwangwoon University.</small></p>
+
+<h3>Things I code with</h3>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
