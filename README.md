@@ -1,12 +1,12 @@
 <h2>Hey! Nice to see you</h2>
 
 <p><small>Welcom to my page!<br>I'm Daniel, Backend developer from :kr: <strong>Seoul</strong>, <strong>Korea</strong>, currently studying in the Department of Computer Science at <strong>Kwangwoon University.</strong></small></p>
-<br>
+
 <h3>Things I code with</h3>
 <div>
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/spring-%2370AD47.svg?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
-<br>
+
 <h3>Where to find me</h3>
 <div>
   <a href="https://github.com/holychann"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
