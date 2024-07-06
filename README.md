@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=fbb6d0&animation=twinkling&height=300&section=header&text=Hi%20Im%20Daniel%20Cho&fontSize=90" />
+
+<br>
+
 <h2>Hey! Nice to see you</h2>
 
 <p><small>Welcom to my page!<br>I'm Daniel, Backend developer from :kr: <strong>Seoul</strong>, <strong>Korea</strong>, studying in the Department of Computer Science at <strong>Kwangwoon University.</strong></small></p>
