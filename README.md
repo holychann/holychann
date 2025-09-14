@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <!-- JS -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-  <br/>
-  <br/>
   <!-- SPRING -->
   <img src="https://img.shields.io/badge/spring-%2370AD47.svg?style=for-the-badge&logo=spring&logoColor=white">
   <!-- SPRING BOOT-->
