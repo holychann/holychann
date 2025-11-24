@@ -7,6 +7,7 @@
 <p><small>Welcom to my page!<br>I'm Daniel, Backend developer from :kr: <strong>Seoul</strong>, <strong>Korea</strong>, studying in the Department of Computer Science at <strong>Kwangwoon University.</strong></small></p>
 
 <h3>Things I code with</h3>
+<!-- 뱃지 모음 https://github.com/Ileriayo/markdown-badges -->
 <div>
   <!-- JAVA -->
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -22,16 +23,22 @@
   <br/>
   <!-- POSTGRES -->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <!-- SUPABASE -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <!-- DYNAMODB -->
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+  <!-- MYSQL -->
+  <img src ="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- REDIS -->
+  <img src ="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  <!-- S3 -->
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <br/>
   <br/>
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <!-- S3 -->
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <!-- ACTIONS -->
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  <!-- NGINX -->
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 
 <h3>Tools I use</h3>
