@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hi%2C%20I%27m%20Daniel%20Cho&fontSize=90&fontColor=eaeaea" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hi%2C%20I%27m%20Daniel%20Cho&fontSize=90&fontColor=ffcce5" />
 
 <br>
 
